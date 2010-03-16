@@ -20,7 +20,7 @@ INSTALLATION
 
 WIKI
 ---- 
-[GitHug](http://github.com/simeonwillbanks/Pifty)
+[GitHub](http://wiki.github.com/simeonwillbanks/Pifty/)
 
 LICENSE
 -------  
