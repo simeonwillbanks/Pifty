@@ -9,15 +9,15 @@ REQUIREMENTS
 *   PHP 5.x
 *   Apache 1.x/2.x
     *   mod_rewrite must be enabled
-    *   a _<Directory>_ section for `./Pifty/public` must have _AllowOverride_ set to _All_ for the `./Pifty/public/.htaccess` file to be read
+    *   a `<Directory>` section for _./Pifty/public_ must have `AllowOverride` set to `All` for the _./Pifty/public/.htaccess_ file to be read
         * More info on [mod_rewrite](http://httpd.apache.org/docs/2.2/mod/mod_rewrite.html) and [.htaccess](http://httpd.apache.org/docs/2.2/howto/htaccess.html)
     
 INSTALLATION
 ------------  
-1.  Open `./Pifty/config.php`
+1.  Open _./Pifty/config.php_
     *   Set database DSN, username and password
-    *   If you find the need, `./Pifty/config.php` is for application constants
-2.  Make `./Pifty/public` the path to your public web root
+    *   If you find the need, _./Pifty/config.php_ is for application constants
+2.  Make _./Pifty/config.php_ the path to your public web root
 3.  Navigate to your web site in a browser   
 
 WIKI
